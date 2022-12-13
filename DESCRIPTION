@@ -28,5 +28,6 @@ Imports:
     plyr,
     RColorBrewer,
     reshape2,
+    rmarkdown,
     stringr
 URL: https://github.com/phac-nml/plasmidprofiler
